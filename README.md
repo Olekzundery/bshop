@@ -1,2 +1,0 @@
-# bshop
-README TEST
